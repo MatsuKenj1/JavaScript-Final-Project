@@ -21,48 +21,48 @@
 
         <img
             class="preview"
-            src="images/flowers.jpg"
-            alt="Flowers"
+            src="red magic 11 pro plus.png"
+            alt="Red Magic 11 Pro Plus"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
 
         <img
             class="preview"
-            src="images/river.jpg"
-            alt="River"
+            src="red magic 11 pro.png"
+            alt="Red Magic 11 Pro"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
 
         <img
             class="preview"
-            src="images/forest.jpg"
-            alt="Forest"
+            src="redmi k90.png"
+            alt="Redmi K90"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
 
         <img
             class="preview"
-            src="images/moutain.jpg"
-            alt="Moutain"
+            src="redmi turbo 4 pro.jpg"
+            alt="Redmi Turbo 4 Pro"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
 
         <img
             class="preview"
-            src="images/city.jpg"
-            alt="City"
+            src="rog phone 9.png"
+            alt="Rog Phone 9"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
 
         <img
             class="preview"
-            src="images/beach.jpg"
-            alt="Beach"
+            src="rog phone 8 pro.jpg"
+            alt="Rog Phone 8 Pro"
             onmouseover="upDate(this)"
             onmouseout="unDo()"
         >
